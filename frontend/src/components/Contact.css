@@ -1,0 +1,62 @@
+.main {
+    background-color: rgb(207, 199, 199);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    position: relative;
+
+}
+.main2 {
+    box-shadow: 0 0 20px 0 rgba(0,0,0,0.5);
+    background-color: #fff;
+    width: 80%;
+    height: 650px;
+    left: 50%;
+    transform: translate(-50%, 0%);
+    margin-top: 60px;
+    position: absolute;
+
+}
+.contact {
+    margin-top: 150px;
+    margin-left: 90px;
+}
+.contact p {
+    color: black;
+    font-weight: 400;
+}
+.blank {
+    width: 100%;
+    background-color: black;
+    height: 100px;
+    margin-top: 200px;
+}
+nav .login1 {
+    background-color: #fff;
+    margin-left: 87%;
+
+}
+.main2 a {
+    text-decoration: none;
+}
+.main2 button {
+    margin-right: -50px;
+}
+.option {
+    display: flex;
+    margin: 20px;
+    position: absolute;
+}
+#select1 {
+    margin: 10px;
+    margin-left: -100px;
+    border: none;
+}
+#learn1 {
+    margin: 10px;
+    border: none;
+}
+.option h6 {
+    margin-top: 15px;
+    margin-left: 10px;
+}

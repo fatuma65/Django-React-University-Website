@@ -1,0 +1,55 @@
+.form-survey {
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.5);
+    background-color: #fff;
+    width: 430px;
+    height: 330px;
+    left: 77%;
+    transform: translate(-50%, -50%);
+    margin-top: -50px;
+    position: absolute;
+}
+input {
+    width: 200px;
+    padding: 10px;
+    margin: 7px;
+    background-color: rgb(210, 210, 210);
+    border: none;
+    margin-top: -8px;
+}
+#first {
+    display: flex;
+}
+textarea {
+    width: 410px;   
+    padding: 10px;
+    margin: 7px;
+    margin-top: -5px;
+    background-color: rgb(210, 210, 210);
+    border: none;
+}
+.text {
+    display: flex;
+}
+#last1{
+    margin: 1px;
+}
+.email1 {
+    width: 410px;   
+}
+#email {
+    display: flex;
+
+}
+#last {
+    position: absolute;
+    margin-top: -30px;
+}
+h1 {
+    text-align: center;
+}
+label {
+    margin: 8px;
+}
+.form-survey .btn {
+    width: 120px;
+}
